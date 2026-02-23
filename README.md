@@ -8,7 +8,9 @@
 
 ## 📥 Download
 
-**[⬇ Download the full book (DOCX)](./output/Responsible_AI_in_Practice_Divya_Akula_v1.pdf)**
+**[⬇ View the full book](./output/Responsible_AI_in_Practice_Divya_Akula_v1.pdf)**
+
+**[⬇ Download the full book](https://github.com/divya-akula/responsible-ai-in-practice/raw/main/output/Responsible_AI_in_Practice_Divya_Akula_v1.pdf)**
 
 ---
 
