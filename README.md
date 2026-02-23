@@ -107,7 +107,7 @@ This work is licensed under [Creative Commons Attribution-NonCommercial-NoDeriva
 
 If you reference this work, please cite it as:
 
-> Akula, D. (2026). *Responsible AI in Practice: From Intake to Incident* (Version 1.0). Retrieved from https://github.com/[your-username]/responsible-ai-in-practice
+> Divya.Akula . (2026). *Responsible AI in Practice: From Intake to Incident* (Version 1.0). Retrieved from https://github.com/[divya-akula]/responsible-ai-in-practice
 
 ---
 
